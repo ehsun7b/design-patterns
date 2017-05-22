@@ -1,5 +1,10 @@
 # Creational Patterns 
 
+* [Singleton Pattern](#singleton)
+
+...
+
+<a name="singleton"></a>
 ## Singleton Pattern
 ### Problem
 * Issues
