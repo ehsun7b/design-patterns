@@ -2,7 +2,7 @@
 
 * [Singleton Pattern](#singleton)
 
-...
+<hr/>
 
 <a name="singleton"></a>
 ## Singleton Pattern
