@@ -6,7 +6,7 @@
 > [__wikipedia__](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 ### Categories
-
+ 
 * [Creational Patterns](https://github.com/ehsun7b/design-patterns/tree/master/creational-patterns)
 * [Structural Patterns](https://github.com/ehsun7b/design-patterns/tree/master/structural-patterns)
 * [Behavioral Patterns](https://github.com/ehsun7b/design-patterns/tree/master/behavioral-patterns)
